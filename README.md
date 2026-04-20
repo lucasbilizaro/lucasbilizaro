@@ -10,7 +10,7 @@
 - 🖥️ Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas
 - 📚 Atualmente trabalhando em projetos acadêmicos e aprendendo .NET/C#
 
-#
+##
 <h3>🤖 Linguagens e Ferramentas</h3> 
 
 ![Lua](https://img.shields.io/badge/Lua-007ACC?style=for-the-badge&logo=lua&logoColor=white)
@@ -35,7 +35,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-<h3>📊 Estatísticas</h3>
+<h3 align="center">📊 Estatísticas</h3>
+
+##
+
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=lucasbilizaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbilizaro&layout=compact&theme=tokyonight" />
