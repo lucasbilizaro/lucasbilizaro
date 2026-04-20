@@ -35,9 +35,8 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-<h3 align="center">📊 Estatísticas</h3>
+<h2 align="center">📊 Estatísticas</h3>
 
-##
 
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=lucasbilizaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
